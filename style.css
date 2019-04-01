@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.principal-info {
+  width: auto;
+  height: 700px;
+  background-color: #9D7EFB;
+  color: white;
+}
+
+#title {
+  -webkit-transform: rotate(-90deg);
+  font-size: 14px;
+  display: inline-block;
+  margin: 80px 0 0 -25px;
+  background-color: blue;
+  float: left;
+}
+
+#subtitle {
+  background-color: #7ed2fb;
+  float: left;
+  position: relative;
+  height: 700px;
+}
+
+#zen-summary{
+  float: rigt;
+}
